@@ -19,6 +19,7 @@ public class StatementsWComments {
 		would be better in that case...14px; 12px; 6px; 2px; 
 		sus. 
 		*/
-		System.out.println("/nTry me with a New Line");
+		System.out.println("\nTry me with a New Line");
+		// it's \n 
 	}
 }
