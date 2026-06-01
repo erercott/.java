@@ -1,13 +1,13 @@
 public class String { 
 	public static void main(String[] args) {
 		
-		String Phillip$Drummond = "Conrad Bain"; 
-		String Arnold$Jackson = "Gary Coleman";
-		String Willis$Jackson = "Todd Bridges";
-		String Kimberly$Drummond = "Dana Plato";
-		String Charolette$Rae = "Edna Garrett";
-		String Pearl$Gallagher = "Mary Jo Catlett";
-		String Maggie$McKinney$Drummond = "Dixie Carter";
-		
+	String Daewoo = "DTQ-13V1FC";
+	String IBM = "G54";
+	String Dell = "E551c";
+	
+	System.out.println(IBM);
+	System.out.println(Dell);
+	System.out.println(Daewoo);
+	
 	}
 }
