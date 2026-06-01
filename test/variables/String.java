@@ -11,3 +11,5 @@ public class String {
 	
 	}
 }
+
+/* CRT Database — https://crtdatabase.com/ — Eli Krause — CC BY‑NC‑SA 4.0 — retrieved 2026-06-01 */
